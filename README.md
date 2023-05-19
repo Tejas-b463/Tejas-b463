@@ -25,8 +25,8 @@
 <h2 align="center">🧑🏻‍💻 About Me <br>AS a Junior Front-End Developer, I Possess an impressive arsenal of skills in HTML5, CSS3, Javascript, React, Boostrap and I have good knowledge in Back-End using Node Js, Mongo DB. 🚀</h2>
 
 ###
-
-<h3 align="left">- 🌱 I am currently working on Frontend Developer<br>- 📚 I'm currently learning  React <br>- 💬 Ask me about Javascript<br>- 📫 How to reach me tejasbanait007@gmail.com<br>- 👯 I’m looking to collaborate on UI/UX Developer<br>-⚡ Building digital solutions with code.</h3>
+<h2> Hi 👋🏻, I'm Tejas Banait 🚀
+<h3 align="left">- 🌱 I am currently working on HTML, CSS, Boostrap and Javascript<br>- 📚 I'm currently learning  React and Redux <br>- 💬 Ask me about Frontend Developer<br>- 📫 How to reach me tejasbanait007@gmail.com<br>- 👯 I’m looking to collaborate on UI/UX Developer<br>😄 Pronouns : ... YES <br>-⚡ Building digital solutions with code.</h3>
 
 ###
 
