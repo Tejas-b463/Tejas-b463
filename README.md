@@ -22,11 +22,11 @@
 
 ###
 
-<h4 align="center">👩‍💻  About Me <br>AS a Junior Front-End Developer, I Possess an impressive arsenal of skills in HTML5, CSS3, Javascript, React, Boostrap and I have good knowledge in Back-End using Node Js, Mongo DB.</h4>
+<h2 align="center">🧑🏻‍💻 About Me <br>AS a Junior Front-End Developer, I Possess an impressive arsenal of skills in HTML5, CSS3, Javascript, React, Boostrap and I have good knowledge in Back-End using Node Js, Mongo DB. 🚀</h2>
 
 ###
 
-<p align="left">- 🌱 I am currently working on Frontend Developer<br>- 📚 I'm currently learning  React <br>- 💬 Ask me about Javascript<br>- 📫 How to reach me tejasbanait007@gmail.com<br>- 👯 I’m looking to collaborate on UI/UX Developer<br>-⚡ Code : Create, Innovate, Problem-solve, Collaborate, Empower</p>
+<h3 align="left">- 🌱 I am currently working on Frontend Developer<br>- 📚 I'm currently learning  React <br>- 💬 Ask me about Javascript<br>- 📫 How to reach me tejasbanait007@gmail.com<br>- 👯 I’m looking to collaborate on UI/UX Developer<br>-⚡ Code : Create, Innovate, Problem-solve, Collaborate, Empower</h3>
 
 ###
 
@@ -54,10 +54,8 @@
 </div>
 
 ###
-
 <h3 align="left">🧩 Social Media :</h3>
 
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -66,10 +64,7 @@
 </div>
 
 ###
-
 <h3 align="left">📊 Github Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-b463&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
