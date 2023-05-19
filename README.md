@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">- 🌱 I am currently working on Frontend Developer<br>- 📚 I'm currently learning  React <br>- 💬 Ask me about Javascript<br>- 📫 How to reach me tejasbanait007@gmail.com<br>- 👯 I’m looking to collaborate on UI/UX Developer<br>-⚡ Code : Create, Innovate, Problem-solve, Collaborate, Empower</h3>
+<h3 align="left">- 🌱 I am currently working on Frontend Developer<br>- 📚 I'm currently learning  React <br>- 💬 Ask me about Javascript<br>- 📫 How to reach me tejasbanait007@gmail.com<br>- 👯 I’m looking to collaborate on UI/UX Developer<br>-⚡ Building digital solutions with code.</h3>
 
 ###
 
