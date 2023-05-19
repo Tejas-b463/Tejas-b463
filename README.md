@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">🧑🏻‍💻 About Me <br>AS a Junior Front-End Developer, I Possess an impressive arsenal of skills in HTML5, CSS3, Javascript, React, Boostrap and I have good knowledge in Back-End using Node Js, Mongo DB. 🚀</h2>
+<h4 align="center">🧑🏻‍💻 About Me <br>AS a Junior Front-End Developer, I Possess an impressive arsenal of skills in HTML5, CSS3, Javascript, React, Boostrap and I have good knowledge in Back-End using Node Js, Mongo DB. 🚀</h4>
 
 ###
 <h2> Hi 👋🏻, I'm Tejas Banait 🚀
