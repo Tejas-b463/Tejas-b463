@@ -26,7 +26,7 @@
 
 ###
 <h2> Hi 👋🏻, I'm Tejas Banait 🚀</h2>
-<p align="left">- 🌱 I am currently working on HTML, CSS, Boostrap and Javascript<br>- 📚 I'm currently learning  React and Redux <br>- 💬 Ask me about Frontend Developer<br>- 📫 How to reach me tejasbanait007@gmail.com<br>- 👯 I’m looking to collaborate on UI/UX Developer<br>😄 Pronouns : ... YES <br>-⚡ Building digital solutions with code.</p>
+<p align="left">- 🌱 I am currently working on HTML, CSS, Boostrap and Javascript<br>- 📚 I'm currently learning  React and Redux <br>- 💬 Ask me about Frontend Developer<br>- 📫 How to reach me tejasbanait007@gmail.com<br>- 👯 I’m looking to collaborate on UI/UX Developer<br>- 😄 Pronouns : ... YES <br>-⚡ Building digital solutions with code.</p>
 
 ###
 
