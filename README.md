@@ -1,8 +1,7 @@
 
  Hi👋, I'm Tejas
 ========================================================================================================================================
-
- Based in India, I'm a Fullstack developer passionate about <br/> building a modern web applications that users love 🚀
+A passionate Fullstack developer from India
 <br/>
 
 ### Skills
