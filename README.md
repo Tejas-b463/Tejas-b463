@@ -1,5 +1,5 @@
-Nice to meet you! 👋 <br/>
-I'm Tejas.
+Hi👋, I'm Tejas.
+
 ========================================================================================================================================
 
  Based in India, I'm a Fullstack developer passionate about <br/> building a modern web applications that users love 🚀
