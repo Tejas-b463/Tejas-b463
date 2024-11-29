@@ -1,7 +1,7 @@
 Hi! My name is Tejas Banait 😄
 ========================================================================================================================================
 
-<h1 class="font-size: 1.5rem; 
+<h1 style="font-size: 1.5rem; 
     font-weight: 700; 
     text-decoration: underline; 
     text-underline-offset: 8px;
