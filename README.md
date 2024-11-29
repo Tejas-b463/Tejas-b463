@@ -1,11 +1,10 @@
 Hi! My name is Tejas Banait 😄
 ========================================================================================================================================
 
-<h1 style="font-size: 1.5rem; 
-    font-weight: 700; 
-    text-decoration: underline; 
-    text-underline-offset: 8px;
-    text-decoration-color: #22c55e;">Tejas 🧑🏻‍💻</h1>
+<h1 style="font-size: 24px; font-weight: bold; text-decoration: underline; color: #22c55e;">
+    Tejas 🧑🏻‍💻
+</h1>
+
 
 
 
