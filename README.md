@@ -6,7 +6,8 @@ Hi! My name is Tejas Banait 🧑🏻‍💻
 
 ### Skills
 
-[![Technologies](https://skillicons.dev/icons?i=html,css,js,c,react,nodejs,express,mongodb,tailwindcss)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=html,css,js,c,tailwindcss,react,reduxtoolkit,nodejs,express,mongodb,mysql)](https://skillicons.dev)
+
 
 
 
