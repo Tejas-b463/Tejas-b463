@@ -1,7 +1,17 @@
 Hi! My name is Tejas Banait 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Pune, India
+<h1 class="header">Tejas 🧑🏻‍💻</h1>
+
+.header{
+font-size: 1.5rem; 
+    font-weight: 700; 
+    text-decoration: underline; 
+    text-underline-offset: 8px;
+    text-decoration-color: #22c55e;
+}
+
+🌍  I am a Full Stack Developer based in Pune, India
 <br/>
 
 ### Skills
