@@ -1,7 +1,7 @@
 
  Hi👋, I'm Tejas
 ========================================================================================================================================
-A passionate Fullstack developer from India
+**A passionate Fullstack developer from India**
 <br/>
 
 ### Skills
