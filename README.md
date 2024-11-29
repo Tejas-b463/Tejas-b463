@@ -1,15 +1,13 @@
 Hi! My name is Tejas Banait 😄
 ========================================================================================================================================
 
-<h1 class="header">Tejas 🧑🏻‍💻</h1>
-
-.header{
-font-size: 1.5rem; 
+<h1 class="font-size: 1.5rem; 
     font-weight: 700; 
     text-decoration: underline; 
     text-underline-offset: 8px;
-    text-decoration-color: #22c55e;
-}
+    text-decoration-color: #22c55e;">Tejas 🧑🏻‍💻</h1>
+
+
 
 🌍  I am a Full Stack Developer based in Pune, India
 <br/>
