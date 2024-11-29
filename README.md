@@ -1,7 +1,9 @@
 Hi! My name is Tejas Banait 🧑🏻‍💻
 ========================================================================================================================================
 
-🌍  I am a Full Stack Developer based in Pune, India
+Based in India, I'm a Fullstack <br/>
+developer passionate about building a <br/>
+modern web applications that users love.
 <br/>
 
 ### Skills
