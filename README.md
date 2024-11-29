@@ -2,8 +2,8 @@ Nice to meet you! 👋 <br/>
 I'm Tejas.
 ========================================================================================================================================
 
-🚀 Based in India, I'm a Fullstack developer passionate <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    about building a modern web applications that users love.
+🚀 Based in India, I'm a Fullstack developer passionate about <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    building a modern web applications that users love.
 <br/>
 
 ### Skills
