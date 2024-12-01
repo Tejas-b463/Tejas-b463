@@ -25,6 +25,12 @@
       </a>
       <p><b>Shoppi - </b>Shop the Best Deals Today 🛍️</p>
     </td>
+    <td style="border: none;">
+      <a href="https://tejasbanait.vercel.app/">
+        <img src="https://i.postimg.cc/VLFXW03B/portfolio.png" alt="Shoppi - Shop the Best Deals Today" width="300"/>
+      </a>
+      <p><b>Portfolio - </b>See my projects and skills 🚀</p>
+    </td>
   </tr>
   <tr>
     <td style="border: none;">
