@@ -9,7 +9,7 @@
 
 ### 🚀 What I'm Up To
 
--  Exploring [AWS](https://aws.amazon.com/) for Cloud Computing Solutions
+- 🤖 Exploring [AWS](https://aws.amazon.com/) for Cloud Computing Solutions
 - 💻 Building Full Stack applications with MERN Stack
 
 Check out my [coding portfolio!](https://tejas-three.vercel.app/)
