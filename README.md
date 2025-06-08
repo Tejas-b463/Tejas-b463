@@ -9,7 +9,7 @@
 
 ### 🚀 What I'm Up To
 
-- 🤖 Hands-on with AI-powered tools to streamline workflows and enhance learning efficiency in cloud computing environments
+- 🤖 Hands-on with AI-powered tools to streamline workflows and boost learning efficiency
 - 💻 Building Full Stack applications with MERN Stack
 
 Check out my [coding portfolio!](https://tejas-three.vercel.app/)
